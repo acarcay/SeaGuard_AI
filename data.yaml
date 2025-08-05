@@ -1,0 +1,15 @@
+path: ./shipdataset
+
+train: ./train/images
+val: ./valid/images
+test: ./test/images
+
+nc: 1
+names: ['ship']
+
+roboflow:
+  workspace: stillwater81
+  project: ship-image-detection
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/stillwater81/ship-image-detection/dataset/4

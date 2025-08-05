@@ -1,0 +1,5 @@
+/.venv
+/runs
+/shipdataset
+/yolo11n.pt
+/yolov8n.pt
