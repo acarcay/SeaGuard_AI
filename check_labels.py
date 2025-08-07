@@ -1,9 +1,6 @@
 import os
 
-# --- BURAYI KENDİNE GÖRE DÜZENLE ---
-# Etiketlerinin bulunduğu klasörün yolunu buraya yaz.
-# Hem train hem de test klasörlerini kontrol etmen gerekebilir.
-# Önce biriyle başla, sonra diğerini kontrol et.
+
 # LABELS_DIR = "C:/Users/Acar/Desktop/opencv/shipdataset/train/labels"
 LABELS_DIR = "C:/Users/Acar/Desktop/opencv/shipdataset/test/labels"
 # ------------------------------------
