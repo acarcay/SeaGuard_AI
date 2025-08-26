@@ -1,7 +1,5 @@
 # Satellite Ship Detection using YOLOv8
 
-![Project Banner]()
-
 A robust deep learning model for the real-time detection of ships in satellite imagery. This project demonstrates an end-to-end computer vision pipeline, from data preparation and model training to final evaluation on a held-out test set. The model is built using the YOLOv8 architecture and is trained on a custom dataset.
 
 ## Key Features
